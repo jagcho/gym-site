@@ -1,0 +1,88 @@
+.contact{
+    margin-left: 25rem;
+    width: 40%;
+}
+.image{
+    height: 100px;
+}
+
+.carousel .carousel-item {
+    max-height:500px;
+}
+
+.carousel-item img {
+    object-fit:cover;
+    max-height:500px;
+}
+.body{
+    background-color: rgb(12, 12, 7);
+}
+.navbar{
+    background-color: rgb(226, 8, 8);
+}
+.about-h1{
+    color: white;
+}
+.para{
+    color: white;
+}
+
+.form-label{
+    color: white;
+}
+.heading{
+    color:white;
+}
+.pr-btns{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 45%;
+}
+.pr-btn{
+	width:160px;
+	height: 50px;
+    text-decoration: none;
+    display: flex;
+	justify-content: center;
+    align-items: center;
+    font-size: 1.4rem;
+    background-color: #FF1414;
+    box-shadow: 5px 10px 30px rgba(255, 2, 2, 0.336);
+    border-radius: 5px;
+	color:#ffffff;
+}
+.pr-btn:hover{
+	background-color: transparent;
+    transition: all ease 0.5s;
+    color: #ffffff;
+    border: 2px solid #FF1414;
+}
+.footer{
+    clear: both;
+ position: relative;
+ height: 180px;
+ margin-top: 134px;
+}
+/* .container-Program{
+
+} */
+
+.footer-Offer{
+ clear: both;
+ position: relative;
+ height: 180px;
+ margin-top: 235px;
+}
+.card{
+    width: 520px;
+}
+.footer-About{
+    clear: both;
+    position: relative;
+    height: 180px;
+    margin-top: 275px;
+   }
+   .footer-Home{
+    position: absolute;
+    z-index: -1;
+   }
